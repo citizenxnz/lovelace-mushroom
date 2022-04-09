@@ -84,6 +84,9 @@
             },
             "update": {
                 "show_buttons_control": "Contrôle avec boutons ?"
+            },
+            "vacuum": {
+                "show_buttons_control": "Contrôle avec boutons ?"
             }
         },
         "chip": {

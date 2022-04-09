@@ -92,6 +92,9 @@
             },
             "update": {
                 "show_buttons_control": "Buttons control?"
+            },
+            "vacuum": {
+                "show_buttons_control": "Buttons control?"
             }
         },
         "chip": {

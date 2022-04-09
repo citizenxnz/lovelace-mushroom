@@ -77,6 +77,9 @@
             "weather": {
                 "show_conditions": "条件?",
                 "show_temperature": "温度?"
+            },
+            "vacuum": {
+                "show_buttons_control": "按钮控制?"
             }
         },
         "chip": {

@@ -81,6 +81,9 @@
             "weather": {
                 "show_conditions": "Condizioni",
                 "show_temperature": "Temperatura"
+            },
+            "vacuum": {
+                "show_buttons_control": "Controllo"
             }
         },
         "chip": {

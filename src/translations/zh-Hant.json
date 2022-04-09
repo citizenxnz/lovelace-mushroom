@@ -84,6 +84,9 @@
             },
             "update": {
                 "show_buttons_control": "按鈕控制?"
+            },
+            "vacuum": {
+                "show_buttons_control": "按鈕控制?"
             }
         },
         "chip": {
